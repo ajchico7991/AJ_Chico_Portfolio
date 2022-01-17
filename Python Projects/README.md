@@ -1,3 +1,3 @@
 # Python Projects
 
-= App Store and Google Play Store Application Analysis
+## Project 1: App Store and Google Play Store Application Analysis
