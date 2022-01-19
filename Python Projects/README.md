@@ -2,7 +2,7 @@
 
 ## Project 1: App Store Analysis
 
-## Project 2: Exploring Hacker News
+## Project 2: Exploring Hacker News Posts
 
 ## Project 3: Exploring EBAY car sales data
 
