@@ -1,4 +1,4 @@
-# AJ_Chico_Portfolio
+# AJ Chico Portfolio
 Variety of data projects to showcase data analytics skills. 
 
 
