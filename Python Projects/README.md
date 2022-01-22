@@ -8,4 +8,4 @@
 
 ## Project 4: Finding Heavy Traffic Indicators on the I-94
 
-** Project 5: Storytelling with Data Visualizations on Exchange Rates
+## Project 5: Storytelling with Data Visualizations on Exchange Rates
